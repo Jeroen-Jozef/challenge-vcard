@@ -43,7 +43,7 @@ header {
     position: absolute;
     top: 60px;
     left: 300px;
-    margin-left: 15px;
+
 }
 
 .data {
@@ -57,7 +57,8 @@ header {
     background: linear-gradient(90deg, rgba(39,153,6,1) 0%, rgba(144,199,11,0.9247898988697041) 95%, rgba(196,156,8,1) 100%);
 }
 
-.fn {
-     
+a {
+    color: inherit;
+    text-decoration: none;
  }
 
